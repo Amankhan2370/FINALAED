@@ -1,0 +1,3 @@
+Initial string
+A new string
+A new string
